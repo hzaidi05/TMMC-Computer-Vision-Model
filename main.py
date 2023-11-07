@@ -40,7 +40,7 @@ while True:
             # object details
             org = [x1, y1]
             font = cv2.FONT_HERSHEY_SIMPLEX
-            fontScale = 1
+            fontScale = .5
             color = (255, 0, 0)
             thickness = 2
 
